@@ -1,0 +1,1 @@
+CREATE TABLE TESTINMG(PersonID int);
